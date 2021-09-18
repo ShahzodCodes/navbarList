@@ -1,0 +1,31 @@
+.all-box{
+    width: 1110px;
+    height: 600px;
+    margin: 60px auto;
+}
+
+body{
+    margin: 0;
+    background-color: #DDA143;
+}
+
+.element-one, .element-two{
+    width: 500px;
+    height: 600px;
+    background-color: white;
+    float: left;
+    border-radius: 60px 0;
+}
+
+.element-two{
+    margin-left: 110px;
+}
+img{
+    width: 500px;
+    height: 250px;
+    border-top-left-radius: 60px;
+}
+.box-body{
+    padding: 20px 50px;
+    box-sizing: border-box;
+}
